@@ -1,0 +1,6 @@
+KMeans,Customers,Recency,Frequency,Monetary,TotalRevenue,Share_of_customers_%,Share_of_revenue_%,Persona
+0,909,46.6,10.0,609.8,554331.6,22.6,20.4,Loyal Regulars
+1,511,15.0,27.8,3474.2,1775296.7,12.7,65.3,Champions
+2,980,276.9,1.5,46.9,45992.1,24.3,1.7,Lost / Hibernating
+3,820,182.8,6.2,348.2,285496.7,20.4,10.5,At-Risk Customers
+4,805,20.3,1.7,69.5,55936.2,20.0,2.1,New / Promising
